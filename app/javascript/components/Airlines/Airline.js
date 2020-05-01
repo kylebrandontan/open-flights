@@ -30,17 +30,23 @@ const AirlineName = styled.div`
 
 const LinkWrapper = styled.div`
   margin: 30px 0 20px 0;
-  height: 50px;
+  /* height: 50px; */
 
-  a {
+  /* a {
     color: #fff;
-    background: #000;
+    background-color: #71b406;
     border-radius: 4px;
     padding: 10px 50px;
-    border: 1px solid #000;
-    width: 100%;
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1px solid #71b406;
+    text-align: center;
+    line-height: 20px;
+    min-height: 40px;
+    margin: 7px;
     text-decoration: none;
-  }
+    width: 100%;
+  } */
 `
 
 const Airline = (props) => {
