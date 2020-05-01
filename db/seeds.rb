@@ -8,15 +8,15 @@ airlines = Airline.create([
   },
   {
     name: "Philippine Airlines",
-    image_url: "#"
+    image_url: "https://fontmeme.com/images/Philippine-Airlines-Logo.jpg"
   },
   {
-    name: "Canada Airlines",
-    image_url: "#"
+    name: "Air Canada",
+    image_url: "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6847/brand.gif?itok=u0iVoArk"
   },
   {
     name: "Delta Airlines",
-    image_url: "#"
+    image_url: "https://i.pinimg.com/originals/cb/d6/da/cbd6da98fd0c6d1d2e4a0279169640db.png"
   }
 ])
 
