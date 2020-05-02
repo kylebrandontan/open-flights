@@ -30,9 +30,9 @@ const AirlineName = styled.div`
 
 const LinkWrapper = styled.div`
   margin: 30px 0 20px 0;
-  /* height: 50px; */
+  height: 50px;
 
-  /* a {
+  a {
     color: #fff;
     background-color: #71b406;
     border-radius: 4px;
@@ -46,7 +46,7 @@ const LinkWrapper = styled.div`
     margin: 7px;
     text-decoration: none;
     width: 100%;
-  } */
+  }
 `
 
 const Airline = (props) => {
